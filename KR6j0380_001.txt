@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1159A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0380_T_000-0652c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0380_T_001-0652c> ¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -64,7 +64,7 @@ No. 1159A¶
 得如是神力。與我授記而作是言。汝於無量
 <pb:KR6j0380_T_001-0653b>¶
 無邊世。佛與授記。名曰地藏。於五濁難世¶
-中人天。地藏常化身救度眾生令出交難。彼¶
+中人天。地藏常化身救度眾生令出災難。彼¶
 仙與我授記。心更精進修行此法。今見長者¶
 如本無異。若修行人作此法者。隨意諮受。我¶
 到其所為其集錄。諸鬼一時盡現。隨意所使。¶
